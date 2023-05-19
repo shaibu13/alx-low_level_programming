@@ -2,9 +2,10 @@
 /**
  * main - A function that prints a text using puts
  *
- *
+ * Return: 0
  */
-void main(void)
+int main(void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
+	return (0);
 }
